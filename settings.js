@@ -10,18 +10,18 @@ global.location = "Pakistan, Karachi, Karachi" //ur location
 
 //new
 global.botname = '© 𝐆𝐋𝐎𝐁𝐀𝐋-𝐌𝐃' //ur bot name
-global.ownernumber = ['923444844060'] //ur owner number, dont add more than one
+global.ownernumber = ['233549772750'] //ur owner number, dont add more than one
 global.ownername = '© GlobalTechInfo' //ur owner name
 global.websitex = "https://www.youtube.com/@GlobalTechInfo"
-global.wagc = "https://whatsapp.com/channel/0029VagJIAr3bbVBCpEkAM07"
+global.wagc = "https://chat.whatsapp.com/HR76L0EPTf44pP0IBsN0vD"
 global.themeemoji = '🪀'
 global.wm = "Xeon Bot Inc."
 global.botscript = 'https://github.com/GlobalTechInfo/GLOBAL-MD' //script link
 global.packname = "Sticker By"
 global.author = "GlobalTechInfo\n\n+923444844060"
 global.creator = "923444844060@s.whatsapp.net"
-global.xprefix = '.'
-global.premium = ["923444844060"] // Premium User
+global.xprefix = '/'
+global.premium = ["233549772750"] // Premium User
 
 //channel id
 global.xchannel = {
@@ -31,8 +31,8 @@ global.xchannel = {
 //bot sett
 global.typemenu = 'v12' // menu type 'v1' => 'v12'
 global.typereply = 'v4' // reply type 'v1' => 'v4'
-global.autoblocknumber = '91' //set autoblock country code
-global.antiforeignnumber = '91' //set anti foreign number country code
+global.autoblocknumber = '212' //set autoblock country code
+global.antiforeignnumber = '212' //set anti foreign number country code
 
 global.listv = ['•','●','■','✿','▲','➩','➢','➣','➤','✦','✧','△','❀','○','□','♤','♡','◇','♧','々','〆']
 global.tempatDB = 'database.json'
